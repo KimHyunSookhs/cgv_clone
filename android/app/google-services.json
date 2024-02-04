@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290598331194",
+    "project_id": "cgv-clone-e1b79",
+    "storage_bucket": "cgv-clone-e1b79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290598331194:android:9acfa86f63cad0953d6603",
+        "android_client_info": {
+          "package_name": "com.example.cgv_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1wrr17EMeUTgTjPWmlleSdUT3F2nLEDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
